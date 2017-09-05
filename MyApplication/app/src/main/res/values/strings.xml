@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Go App</string>
+    <string name="welcome_msg">Go World!</string>
+</resources>
