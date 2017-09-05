@@ -1,2 +1,2 @@
-# mobileapp
-Android Application
+# Sample Mobile App
+Android Application in java
