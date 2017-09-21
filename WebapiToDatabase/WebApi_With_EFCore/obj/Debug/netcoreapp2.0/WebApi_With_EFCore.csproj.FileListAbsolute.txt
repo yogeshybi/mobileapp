@@ -1,0 +1,11 @@
+E:\WebApi_With_EFCore\bin\Debug\netcoreapp2.0\WebApi_With_EFCore.deps.json
+E:\WebApi_With_EFCore\bin\Debug\netcoreapp2.0\WebApi_With_EFCore.runtimeconfig.json
+E:\WebApi_With_EFCore\bin\Debug\netcoreapp2.0\WebApi_With_EFCore.runtimeconfig.dev.json
+E:\WebApi_With_EFCore\bin\Debug\netcoreapp2.0\WebApi_With_EFCore.dll
+E:\WebApi_With_EFCore\obj\Debug\netcoreapp2.0\WebApi_With_EFCore.csprojResolveAssemblyReference.cache
+E:\WebApi_With_EFCore\obj\Debug\netcoreapp2.0\WebApi_With_EFCore.csproj.CoreCompileInputs.cache
+E:\WebApi_With_EFCore\obj\Debug\netcoreapp2.0\WebApi_With_EFCore.AssemblyInfoInputs.cache
+E:\WebApi_With_EFCore\obj\Debug\netcoreapp2.0\WebApi_With_EFCore.AssemblyInfo.cs
+E:\WebApi_With_EFCore\bin\Debug\netcoreapp2.0\WebApi_With_EFCore.pdb
+E:\WebApi_With_EFCore\obj\Debug\netcoreapp2.0\WebApi_With_EFCore.dll
+E:\WebApi_With_EFCore\obj\Debug\netcoreapp2.0\WebApi_With_EFCore.pdb
